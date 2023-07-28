@@ -62,11 +62,6 @@ function get_links(array $submissions): array {
  * @param array $submissions The array returned by getFormSubmissions method Jotform API.
  * @return void Downloads the files and stores them in folders inside the zip file.
  */
-/**
- * Download the files and save them in folders inside the zip file.
- * @param array $submissions The array returned by getFormSubmissions method Jotform API.
- * @return void Downloads the files and stores them in folders inside the zip file.
- */
 function downloadFiles(array $submissions): void {
     global $formId;
 
