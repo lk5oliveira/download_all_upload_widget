@@ -8,7 +8,7 @@ The script download all the files from the Image Upload Preview Widget and zip t
 * cURL SSL is disabled.
 * Delete the used API key after executing the code.
 
-PHP >8
+PHP >8 +
 cURL
  
 Author: Lucas Oliveira (lucasoliveiraso23@gmail.com)
