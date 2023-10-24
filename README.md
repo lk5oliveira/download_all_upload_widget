@@ -1,6 +1,6 @@
 # Download all uploaded files from the Image Upload Preview Widget
-This script has to be used in combination with the Jotform API. API key with full access is needed.
-The script download all the files from the Image Upload Preview Widget and zip them and separates them by submission.
+This script has to be used in combination with the Jotform API. An API key with full access is needed.
+The script downloads all the files from the Image Upload Preview Widget, zips them, and separates them by submission.
 
 ⚠️WARNING: This code is for workaround use and should not be used in a production environment. 
 * This code does not include proper error handling or security measures and may expose vulnerabilities.
@@ -11,5 +11,5 @@ The script download all the files from the Image Upload Preview Widget and zip t
 PHP >8 +
 cURL
  
-Author: Lucas Oliveira (lucasoliveiraso23@gmail.com)
+Author: Lucas Oliveira (Github: lk5oliveira)
 Date: 2023-07-27
